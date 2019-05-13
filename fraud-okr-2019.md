@@ -9,12 +9,12 @@ The objective of the DS-fraud team in 2019 is to build the fundamental building 
  - Payment Fraud
 
 ## Key Results: What are we going to build in 2019
-**P0:**
+**P0: (Achieved by end of Q3)** 
 
  - ID management system (Project 22) 
  - Email similarities (Project Me!) 
 
-**P1:**
+**P1: (will move up priority by end of Q3)**
 
  - Fraud score for new financial services layer (don't have the name for this yet, any suggestions?)
 
